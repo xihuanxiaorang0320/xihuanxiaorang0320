@@ -23,7 +23,7 @@
 <img src="https://img.xiaorang.fun/202502251908109.gif" alt="gif" width="360px" align="right" />
 
 ### 🧐 More About Me
- 
+
 - 🔭 &nbsp;I’m currently working on **Full Stack Development**
 - 😐 &nbsp;I have a **love/hate** relationship with **Programming**
 - 🌱 &nbsp;I’m currently learning **JUC, TypeScript**
@@ -35,18 +35,3 @@
 ### 🔨 Languages and Tools
 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,ts,vue)
-
-### 🚀 Quick Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=xihuanxiaorang0320&theme=transparent&show_icons=true&hide_border=true&card_width=400" alt="GitHub stats" />
-    <img src="https://streak-stats.demolab.com?user=xihuanxiaorang0320&theme=transparent&hide_border=true&&date_format=[Y.]n.j&card_width=400" alt="GitHub Streak" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=xihuanxiaorang0320&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-    <br />
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xihuanxiaorang0320/xihuanxiaorang0320/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xihuanxiaorang0320/xihuanxiaorang0320/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xihuanxiaorang0320/xihuanxiaorang0320/output/github-contribution-grid-snake.svg">
-    </picture>
-</p>
-
